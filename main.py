@@ -1,6 +1,6 @@
 from math import comb
 
-n = 34260 # number of T-cells we test
+n = 10000 # number of T-cells we test
 t = 1000000000 # total population of T-cell in drug product
 m = 100000 # amount of T-cells that are RCL positive in drug product
 p = m/t # probability of success (getting a T-cell with RCL in our RCL assay)
